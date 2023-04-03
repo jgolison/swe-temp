@@ -1,0 +1,71 @@
+  button.active {
+    border: 2px solid black;
+  }
+button {
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 7px 36px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+/*   margin-right: 5px; */
+}
+
+canvas {
+  border: 1px solid gray;
+  border-radius: 25px;
+}
+
+.button-basic {
+  background-color: #a6937b;
+  color: black;
+  border: 1px solid black;
+}
+.button-black {
+  background-color: #000000; 
+}
+.button-brown {
+  background-color: #8f5b43; 
+}
+.button-gray {
+  background-color: #707070; 
+}
+.button-white {
+  background-color: #FFFFFF;
+  color: black;
+  border: 1px solid black;
+}
+.button-red {
+  background-color: #cf3025; 
+}
+.button-orange {
+  background-color: #d68a20; 
+}
+.button-yellow {
+  background-color: #e3c936; 
+  color: black;
+}
+.button-green {
+  background-color: #6cbf52; 
+  color: black;
+}
+.button-blue {
+  background-color: #3e81b5; 
+}
+.button-purple {
+  background-color: #8451ad; 
+}
+.button-pink {
+  background-color: #cc62aa; 
+}
+h1 {
+  font-family: "Helvetica", Arial, sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
