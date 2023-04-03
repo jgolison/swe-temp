@@ -1,3 +1,4 @@
+import { fabric } from "fabric";
 let erasingRemovesErasedObjects = false;
 let currentColor = '#000000'
 let currentWidth = 30;
